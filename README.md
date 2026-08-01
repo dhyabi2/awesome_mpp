@@ -10,16 +10,16 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://mpp.best)
 [![Website](https://img.shields.io/badge/directory-mpp.best-D97A5E)](https://mpp.best)
-![Resources](https://img.shields.io/badge/curated_repos-1352-blue)
-![Updated](https://img.shields.io/badge/updated-2026-07-01-brightgreen)
+![Resources](https://img.shields.io/badge/curated_repos-1382-blue)
+![Updated](https://img.shields.io/badge/updated-2026-08-01-brightgreen)
 
 > ⭐ **Find this useful? [Star the repo](https://github.com/mpp-best/awesome_mpp) and [submit your project](https://mpp.best/submit)** — the list refreshes automatically every month.
 
 ---
 
 ## 📋 Contents
-- [🔌 x402 Protocol](#x402-protocol) (1137)
-- [🤖 AI Agent Payments](#ai-agent-payments) (149)
+- [🔌 x402 Protocol](#x402-protocol) (1159)
+- [🤖 AI Agent Payments](#ai-agent-payments) (157)
 - [🧩 MCP Payments](#mcp-payments) (3)
 - [👛 Wallets & Keys](#wallets-keys) (8)
 - [💵 USDC & Stablecoins](#usdc-stablecoins) (13)
@@ -31,153 +31,161 @@
 
 | Project | Stars | Language | Description |
 |---------|-------|----------|-------------|
-| [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | ⭐12,481 | Go | Your AI trading terminal assistant for US stocks, commodities, forex, and crypto. |
-| [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) | ⭐6,607 | TypeScript | The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on Base & Solana v |
-| [coinbase/x402](https://github.com/coinbase/x402) | ⭐6,213 | TypeScript | A payments protocol for the internet. Built on HTTP. |
-| [Bitterbot-AI/bitterbot-desktop](https://github.com/Bitterbot-AI/bitterbot-desktop) | ⭐2,419 | TypeScript | A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills eco |
-| [ProwlFi/ProwlFi](https://github.com/ProwlFi/ProwlFi) | ⭐646 | TypeScript | The multiplayer penguin world where you waddle, play & earn real $SOL. 9 minigames, puffles, igloos  |
+| [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | ⭐12,595 | Go | Your AI trading terminal assistant for US stocks, commodities, forex, and crypto. |
+| [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) | ⭐6,661 | TypeScript | The agent-native LLM router for autonomous agents. 55+ models (8 free), <1ms local routing, USDC pay |
+| [coinbase/x402](https://github.com/coinbase/x402) | ⭐6,373 | TypeScript | A payments protocol for the internet. Built on HTTP. |
+| [Bitterbot-AI/bitterbot-desktop](https://github.com/Bitterbot-AI/bitterbot-desktop) | ⭐2,425 | TypeScript | A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills eco |
+| [internet-court/internet-court-skill](https://github.com/internet-court/internet-court-skill) | ⭐1,058 | TypeScript | The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissi |
 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | ⭐624 | TypeScript | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
-| [daydreamsai/daydreams](https://github.com/daydreamsai/daydreams) | ⭐608 | TypeScript | Daydreams is a set of tools for building agents for commerce |
-| [qntx/machi](https://github.com/qntx/machi) | ⭐564 | Rust | Agent behavior that compiles |
-| [google-agentic-commerce/a2a-x402](https://github.com/google-agentic-commerce/a2a-x402) | ⭐528 | Python | The A2A x402 Extension brings cryptocurrency payments to the Agent-to-Agent (A2A) protocol, enabling |
-| [BlockRunAI/blockrun-mcp](https://github.com/BlockRunAI/blockrun-mcp) | ⭐467 | TypeScript | Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 microp |
-| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | ⭐449 | TypeScript | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, B |
-| [Merit-Systems/x402scan](https://github.com/Merit-Systems/x402scan) | ⭐351 | TypeScript | x402 Ecosystem Explorer |
-| [moov-io/awesome-fintech](https://github.com/moov-io/awesome-fintech) | ⭐331 | — | A curated collection of open source fintech libraries and resources. |
-| [x402-rs/x402-rs](https://github.com/x402-rs/x402-rs) | ⭐273 | Rust | x402 payments in Rust: verify, settle, and monitor payments over HTTP 402 flows |
+| [daydreamsai/daydreams](https://github.com/daydreamsai/daydreams) | ⭐611 | TypeScript | Daydreams is a set of tools for building agents for commerce |
+| [qntx/machi](https://github.com/qntx/machi) | ⭐566 | Rust | Agent behavior that compiles |
+| [google-agentic-commerce/a2a-x402](https://github.com/google-agentic-commerce/a2a-x402) | ⭐541 | Python | The A2A x402 Extension brings cryptocurrency payments to the Agent-to-Agent (A2A) protocol, enabling |
+| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | ⭐506 | TypeScript | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, B |
+| [ProwlFi/ProwlFi](https://github.com/ProwlFi/ProwlFi) | ⭐487 | TypeScript | The world's first privacy layer for AI agents on Solana — stealth addresses + x402 payments. Every p |
+| [BlockRunAI/blockrun-mcp](https://github.com/BlockRunAI/blockrun-mcp) | ⭐475 | TypeScript | Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 microp |
+| [Merit-Systems/x402scan](https://github.com/Merit-Systems/x402scan) | ⭐362 | TypeScript | x402 Ecosystem Explorer |
+| [moov-io/awesome-fintech](https://github.com/moov-io/awesome-fintech) | ⭐352 | — | A curated collection of open source fintech libraries and resources. |
+| [x402-rs/x402-rs](https://github.com/x402-rs/x402-rs) | ⭐280 | Rust | x402 payments in Rust: verify, settle, and monitor payments over HTTP 402 flows |
+| [gosuda/portal-tunnel](https://github.com/gosuda/portal-tunnel) | ⭐264 | Go | Publishes localhost services to the agentic web through self-hostable, trustless relays with x402 pa |
+| [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402) | ⭐264 | — | 🚀 Curated list of x402 resources: HTTP 402 Payment Required protocol for blockchain payments, crypt |
 | [qntx/x402-openai-python](https://github.com/qntx/x402-openai-python) | ⭐260 | Python | Drop-in OpenAI Python client with transparent x402 payment support. |
-| [gosuda/portal-tunnel](https://github.com/gosuda/portal-tunnel) | ⭐259 | Go | Publishes localhost services to the agentic web through self-hostable, trustless relays with x402 pa |
-| [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402) | ⭐244 | — | 🚀 Curated list of x402 resources: HTTP 402 Payment Required protocol for blockchain payments, crypt |
 | [second-state/x402-payment-link](https://github.com/second-state/x402-payment-link) | ⭐201 | HTML | No description. |
-| [daydreamsai/lucid-agents](https://github.com/daydreamsai/lucid-agents) | ⭐187 | TypeScript | Lucid Agents Commerce SDK. Bootstrap AI agents in 60 seconds that can pay, sell, and participate in  |
+| [daydreamsai/lucid-agents](https://github.com/daydreamsai/lucid-agents) | ⭐189 | TypeScript | Lucid Agents Commerce SDK. Bootstrap AI agents in 60 seconds that can pay, sell, and participate in  |
 | [dabit3/x402-starter-kit](https://github.com/dabit3/x402-starter-kit) | ⭐179 | TypeScript | No description. |
-| [vybenetwork/x402-client](https://github.com/vybenetwork/x402-client) | ⭐170 | TypeScript | Client SDK for the Vybe x402 API. Pay-per-call USDC over HTTP and prepaid-credit WebSocket streaming |
-| [qntx/x402-openai-typescript](https://github.com/qntx/x402-openai-typescript) | ⭐151 | TypeScript | Drop-in OpenAI Typescript client with transparent x402 payment support. |
-| [qntx/facilitator](https://github.com/qntx/facilitator) | ⭐148 | Rust | Production-ready x402 facilitator server. |
-| [qntx/r402](https://github.com/qntx/r402) | ⭐148 | Rust | Rust SDK for the x402 payment protocol. |
-| [Merit-Systems/awesome-x402](https://github.com/Merit-Systems/awesome-x402) | ⭐132 | — | Curated resources for the agentic commerce ecosystem |
-| [bolivian-peru/os-moda](https://github.com/bolivian-peru/os-moda) | ⭐106 | Rust | An operating system built for AI agents — talk to your NixOS server instead of SSH-ing in. Typed, au |
+| [vybenetwork/x402-client](https://github.com/vybenetwork/x402-client) | ⭐168 | TypeScript | Client SDK for the Vybe x402 API. Pay-per-call USDC over HTTP and prepaid-credit WebSocket streaming |
+| [qntx/x402-openai-typescript](https://github.com/qntx/x402-openai-typescript) | ⭐152 | TypeScript | Drop-in OpenAI Typescript client with transparent x402 payment support. |
+| [910dei184241-ui/solcex-autonomous-vanguard](https://github.com/910dei184241-ui/solcex-autonomous-vanguard) | ⭐151 | HTML | Autonomous AI BD Agent for SolCex Exchange: 24/7 Cross-Chain Token Scoring & Payments 2026 |
+| [qntx/facilitator](https://github.com/qntx/facilitator) | ⭐149 | Rust | Production-ready x402 facilitator server. |
+| [qntx/r402](https://github.com/qntx/r402) | ⭐149 | Rust | Rust SDK for the x402 payment protocol. |
+| [Merit-Systems/awesome-x402](https://github.com/Merit-Systems/awesome-x402) | ⭐139 | — | Curated resources for the agentic commerce ecosystem |
+| [auscaster/frantic-board](https://github.com/auscaster/frantic-board) | ⭐123 | Shell | HELP WANTED: AI AGENTS. Real bounties, real money, every payout sealed to a public ledger. The notic |
+| [bolivian-peru/os-moda](https://github.com/bolivian-peru/os-moda) | ⭐112 | Rust | An operating system built for AI agents — talk to your NixOS server instead of SSH-ing in. Typed, au |
+| [AlephantAI/AIephant-AI-Agent-Gateway](https://github.com/AlephantAI/AIephant-AI-Agent-Gateway) | ⭐107 | Rust | Alephant is an open-source AI Agent Gateway for routing, tracking, and controlling LLM usage across  |
 | [dabit3/a2a-x402-typescript](https://github.com/dabit3/a2a-x402-typescript) | ⭐103 | TypeScript | A complete TypeScript implementation of the Python x402 payment protocol extension for A2A (Agent-to |
-| [AlephantAI/AIephant-AI-Agent-Gateway](https://github.com/AlephantAI/AIephant-AI-Agent-Gateway) | ⭐100 | Rust | Alephant is an open-source AI Agent Gateway for routing, tracking, and controlling LLM usage across  |
 | [chu2bard/pinion-os](https://github.com/chu2bard/pinion-os) | ⭐95 | TypeScript | Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base. |
 | [azep-ninja/x402-gateway-template](https://github.com/azep-ninja/x402-gateway-template) | ⭐94 | JavaScript | No description. |
 | [microchipgnu/MCPay](https://github.com/microchipgnu/MCPay) | ⭐91 | TypeScript | Open-source Infrastructure for MCP and x402 |
-| [AgentlyHQ/aixyz](https://github.com/AgentlyHQ/aixyz) | ⭐81 | TypeScript | Next.js-like framework building AI Agents that are payment-native. Bootstrap your agent with A2A, MC |
-| [nirholas/three.ws](https://github.com/nirholas/three.ws) | ⭐74 | JavaScript | Open-source 3D AI agent framework — GLB/glTF avatars with LLM brains, memory, emotions, and autonomo |
-| [vercel-labs/x402-ai-starter](https://github.com/vercel-labs/x402-ai-starter) | ⭐74 | TypeScript | No description. |
-| [AgentlyHQ/use-agently](https://github.com/AgentlyHQ/use-agently) | ⭐70 | TypeScript | The way AI coordinates and transacts. Routing and settlement layer for your agent economy. |
-| [nirholas/agenti](https://github.com/nirholas/agenti) | ⭐69 | TypeScript | Give any AI agent a crypto wallet. Agents deserve access to money.  Pay x402 APIs, receive USDC, che |
-| [Scottcjn/openclaw-x402](https://github.com/Scottcjn/openclaw-x402) | ⭐67 | Python | Drop-in x402 payment middleware for Flask APIs. Machine-to-machine payments on Base chain. |
-| [faremeter/faremeter](https://github.com/faremeter/faremeter) | ⭐67 | TypeScript | A universal framework designed to allow agents and other utilities to transparently make machine pay |
-| [solana-foundation/pay-kit](https://github.com/solana-foundation/pay-kit) | ⭐65 | Rust | Agentic commerce building blocks (x402, MPP, AP2) for TypeScript, Rust, Go, Python, Ruby, PHP, Lua,  |
-| [solana-foundation/mpp-sdk](https://github.com/solana-foundation/mpp-sdk) | ⭐65 | Rust | Agentic commerce building blocks (x402, MPP, AP2) for TypeScript, Rust, Go, Python, Ruby, PHP, Lua,  |
+| [nirholas/three.ws](https://github.com/nirholas/three.ws) | ⭐84 | JavaScript | Open-source 3D AI agent framework — GLB/glTF avatars with LLM brains, memory, emotions, and autonomo |
+| [AgentlyHQ/aixyz](https://github.com/AgentlyHQ/aixyz) | ⭐82 | TypeScript | Next.js-like framework building AI Agents that are payment-native. Bootstrap your agent with A2A, MC |
+| [AnkanMisra/MicroAI-Paygate](https://github.com/AnkanMisra/MicroAI-Paygate) | ⭐77 | TypeScript | A high-performance, crypto-monetized AI microservice architecture implementing the x402 Protocol |
+| [vercel-labs/x402-ai-starter](https://github.com/vercel-labs/x402-ai-starter) | ⭐73 | TypeScript | No description. |
+| [AgentlyHQ/use-agently](https://github.com/AgentlyHQ/use-agently) | ⭐71 | TypeScript | The way AI coordinates and transacts. Routing and settlement layer for your agent economy. |
+| [nirholas/agenti](https://github.com/nirholas/agenti) | ⭐71 | TypeScript | Give any AI agent a crypto wallet. Agents deserve access to money.  Pay x402 APIs, receive USDC, che |
+| [solana-foundation/pay-kit](https://github.com/solana-foundation/pay-kit) | ⭐69 | Rust | Building blocks for Agentic payments (x402, MPP, AP2) for TypeScript, Rust, Go, Python, Ruby, PHP, L |
+| [solana-foundation/mpp-sdk](https://github.com/solana-foundation/mpp-sdk) | ⭐69 | Rust | Building blocks for Agentic payments (x402, MPP, AP2) for TypeScript, Rust, Go, Python, Ruby, PHP, L |
+| [Scottcjn/openclaw-x402](https://github.com/Scottcjn/openclaw-x402) | ⭐69 | Python | Drop-in x402 payment middleware for Flask APIs. Machine-to-machine payments on Base chain. |
+| [faremeter/faremeter](https://github.com/faremeter/faremeter) | ⭐68 | TypeScript | A universal framework designed to allow agents and other utilities to transparently make machine pay |
 | [Dhaiwat10/x402-sovereign](https://github.com/Dhaiwat10/x402-sovereign) | ⭐63 | TypeScript | Self-hosted x402 facilitator. |
-| [auscaster/frantic-board](https://github.com/auscaster/frantic-board) | ⭐61 | Shell | HELP WANTED: AI AGENTS. Real bounties, real money, every payout sealed to a public ledger. The notic |
-| [AnkanMisra/MicroAI-Paygate](https://github.com/AnkanMisra/MicroAI-Paygate) | ⭐61 | TypeScript | A high-performance, crypto-monetized AI microservice architecture implementing the x402 Protocol |
-| [eltociear/awesome-molt-ecosystem](https://github.com/eltociear/awesome-molt-ecosystem) | ⭐59 | Dockerfile | The brutally honest map of where AI-agent money actually flows. 51 rounds, 137 angles, 230+ platform |
+| [mrnetwork0001/Inktoll](https://github.com/mrnetwork0001/Inktoll) | ⭐62 | TypeScript | A decentralized micro-settlement protocol enabling autonomous AI agents to pay publishers for premiu |
+| [eltociear/awesome-molt-ecosystem](https://github.com/eltociear/awesome-molt-ecosystem) | ⭐61 | Dockerfile | The brutally honest map of where AI-agent money actually flows. 51 rounds, 137 angles, 230+ platform |
 | [darkresearch/mallory](https://github.com/darkresearch/mallory) | ⭐52 | TypeScript | Opinionated React Native crypto x AI chat app boilerplate with embedded wallet support, conversation |
 | [bitrouter/x402-kit](https://github.com/bitrouter/x402-kit) | ⭐52 | Rust | A fully modular, framework-agnostic, easy-to-extend SDK for building complex X402 payment integratio |
+| [nerochain/nero-x402](https://github.com/nerochain/nero-x402) | ⭐48 | TypeScript | The first AA-native x402 payment stack on NERO Chain — facilitator, SDK, audited settlement contract |
 | [aaronjmars/tweazy](https://github.com/aaronjmars/tweazy) | ⭐48 | TypeScript | The best way to monetize AI applications & MCP, using x402, CDP Smart Wallets & Paymaster |
-| [nerochain/nero-x402](https://github.com/nerochain/nero-x402) | ⭐47 | TypeScript | The first AA-native x402 payment stack on NERO Chain — facilitator, SDK, audited settlement contract |
+| [Dark-Brain07/PayForApi](https://github.com/Dark-Brain07/PayForApi) | ⭐45 | TypeScript | No description. |
 | [abdokhalil5555/AgenticDeFi-Trainer](https://github.com/abdokhalil5555/AgenticDeFi-Trainer) | ⭐43 | Python | Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to  |
+| [BofAI/x402](https://github.com/BofAI/x402) | ⭐41 | TypeScript | x402 payments protocol |
 | [IACKuchau/AgenticDeFi-Trainer](https://github.com/IACKuchau/AgenticDeFi-Trainer) | ⭐40 | Python | Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to  |
 | [david-dacruz/engrave-protocol](https://github.com/david-dacruz/engrave-protocol) | ⭐40 | HTML | The first SOL to BTC MCP Server for AI agents powered by x402 - Building in public everyday on lives |
-| [BofAI/x402](https://github.com/BofAI/x402) | ⭐38 | Python | x402 payments protocol |
 | [josevapriambudi111-cyber/AgenticDeFi-Trainer](https://github.com/josevapriambudi111-cyber/AgenticDeFi-Trainer) | ⭐36 | Python | Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to  |
 | [quiknode-labs/x402-rails](https://github.com/quiknode-labs/x402-rails) | ⭐36 | Ruby | Accept instant blockchain micropayments in your Rails applications using the x402 payment protocol. |
-| [Eversmile12/X402-audio-to-audio](https://github.com/Eversmile12/X402-audio-to-audio) | ⭐35 | Python | Transmits signed USDC payments over sound using a custom OOK audio modem with Goertzel detection. Co |
-| [Dark-Brain07/PayForApi](https://github.com/Dark-Brain07/PayForApi) | ⭐34 | TypeScript | No description. |
+| [Eversmile12/X402-audio-to-audio](https://github.com/Eversmile12/X402-audio-to-audio) | ⭐34 | Python | Transmits signed USDC payments over sound using a custom OOK audio modem with Goertzel detection. Co |
 | [noxxix/AgenticDeFi-Trainer](https://github.com/noxxix/AgenticDeFi-Trainer) | ⭐33 | Python | Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to  |
 | [skalenetwork/machinepal](https://github.com/skalenetwork/machinepal) | ⭐33 | C++ | The Cloud-Native MCP and X402 Gateway to Run and Monetize your AI Agents and Services, as well as op |
 | [ialapont9/AgenticDeFi-Trainer](https://github.com/ialapont9/AgenticDeFi-Trainer) | ⭐31 | Python | Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to  |
+| [nikoSchoinas/routeweiler-python-sdk](https://github.com/nikoSchoinas/routeweiler-python-sdk) | ⭐31 | Python | The financial operating system for AI agents. A single HTTP client that intercepts '402 Payment Requ |
 | [bit-gpt/h402](https://github.com/bit-gpt/h402) | ⭐31 | TypeScript | HTTP 402 is the web-native standard for payments. A frictionless machine-to-machine protocol that al |
+| [mark3labs/x402-go](https://github.com/mark3labs/x402-go) | ⭐31 | Go | Go implementation of the x402 payment protocol |
+| [tenequm/skills](https://github.com/tenequm/skills) | ⭐31 | Python | Agent skills for building, shipping, and growing software products |
+| [vaaya-ai/vaaya-mcp](https://github.com/vaaya-ai/vaaya-mcp) | ⭐30 | Shell | Vaaya MCP server — pay-per-call agent superpowers: media & video generation, product demo videos, we |
 | [lojo64945-beep/AgenticDeFi-Trainer](https://github.com/lojo64945-beep/AgenticDeFi-Trainer) | ⭐30 | Python | Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to  |
 | [liergou2332/AgenticDeFi-Trainer](https://github.com/liergou2332/AgenticDeFi-Trainer) | ⭐30 | Python | Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to  |
 | [wienerlabs/covenant](https://github.com/wienerlabs/covenant) | ⭐30 | TypeScript | The payment rail AI agents use to get paid without human approval. Optimistic settlement on @solana. |
-| [mark3labs/x402-go](https://github.com/mark3labs/x402-go) | ⭐30 | Go | Go implementation of the x402 payment protocol |
-| [nikoSchoinas/routeweiler-python-sdk](https://github.com/nikoSchoinas/routeweiler-python-sdk) | ⭐29 | Python | The neutral micropayment router for autonomous agents. A single HTTP client that intercepts '402 Pay |
-| [tenequm/skills](https://github.com/tenequm/skills) | ⭐29 | Python | Agent skills for building, shipping, and growing software products |
-| [quiknode-labs/x402-payments](https://github.com/quiknode-labs/x402-payments) | ⭐28 | Ruby | Ruby gem for generating signed payment HTTP headers and links using the x402 protocol. |
-| [Libertai/libertai-agents](https://github.com/Libertai/libertai-agents) | ⭐28 | TypeScript | Plugins & tools to build self-sustaining & autonomous AI Agents on Aleph Cloud and LibertAI |
+| [Libertai/libertai-agents](https://github.com/Libertai/libertai-agents) | ⭐29 | TypeScript | Plugins & tools to build self-sustaining & autonomous AI Agents on Aleph Cloud and LibertAI |
 | [murrlincoln/anet](https://github.com/murrlincoln/anet) | ⭐27 | TypeScript | On-chain economy stack for autonomous AI agents — ERC-8004 identity, ERC-8128 signing, X402 payments |
-| [PercolatorFinance/ProwlFinance](https://github.com/PercolatorFinance/ProwlFinance) | ⭐26 | TypeScript | Private rails for the agentic economy on Solana. |
+| [quiknode-labs/x402-payments](https://github.com/quiknode-labs/x402-payments) | ⭐27 | Ruby | Ruby gem for generating signed payment HTTP headers and links using the x402 protocol. |
 | [Fewsats/proxy402](https://github.com/Fewsats/proxy402) | ⭐26 | Go | URL shortener |
 | [xgrain402/xgrain402-sdk](https://github.com/xgrain402/xgrain402-sdk) | ⭐24 | TypeScript | xgrain402 delivers production-ready payment processing capabilities built specifically for the BSC e |
+| [aws-samples/sample-agentcore-cloudfront-x402-payments](https://github.com/aws-samples/sample-agentcore-cloudfront-x402-payments) | ⭐24 | Python | AWS payment demo of x402 using Bedrock AgentCore, Strands SDK, and CloudFront. |
 | [Parad0x-Labs/openclaw-skills](https://github.com/Parad0x-Labs/openclaw-skills) | ⭐23 | Python | Encrypted vault, ZK settlement archiving, x402 payment receipts, Agent Passport binding, and Solana  |
+| [mission69b/t2000](https://github.com/mission69b/t2000) | ⭐23 | TypeScript | Agentic finance infrastructure. |
 | [Parad0x-Labs/openclaw-vault](https://github.com/Parad0x-Labs/openclaw-vault) | ⭐23 | Python | Encrypted vault, ZK settlement archiving, x402 payment receipts, Agent Passport binding, and Solana  |
 | [xgrain402/xgrain402-scan](https://github.com/xgrain402/xgrain402-scan) | ⭐23 | TypeScript | xgrain402-scan provides comprehensive insights into our growing BSC ecosystem |
-| [edgeandnode/ampersend-sdk](https://github.com/edgeandnode/ampersend-sdk) | ⭐23 | TypeScript | Tooling for building applications with x402 payment capabilities. Supports buyer and seller roles. |
-| [eep-dev/EEP](https://github.com/eep-dev/EEP) | ⭐22 | TypeScript | An open standard for push-based, verifiable communication between digital entities and agents that f |
-| [lopushok9/Agent-Layer](https://github.com/lopushok9/Agent-Layer) | ⭐22 | Python | A wallet for agents. Make payments via x402, use stablecoins, swap assets, earn yield with defi and  |
-| [nirholas/x402-deploy](https://github.com/nirholas/x402-deploy) | ⭐22 | TypeScript | Turn any API or MCP server into a paid service with x402 |
-| [mission69b/t2000](https://github.com/mission69b/t2000) | ⭐21 | TypeScript | Agentic finance infrastructure. |
 
-> +1057 more in this category — [browse all on mpp.best](https://mpp.best).
+> +1079 more in this category — [browse all on mpp.best](https://mpp.best).
 
 ## 🤖 AI Agent Payments
 
 | Project | Stars | Language | Description |
 |---------|-------|----------|-------------|
-| [Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship) | ⭐1,035 | — | The living ecosystem where AI agents run automated workflow loops on any task, improve through execu |
-| [adrianhihi/helix](https://github.com/adrianhihi/helix) | ⭐821 | TypeScript | Self-healing infrastructure for AI agent payments. 90.3% auto-recovery. |
-| [omnuron/omniclaw](https://github.com/omnuron/omniclaw) | ⭐573 | Python | The first agentic payment network: policy-controlled, gasless, and real money-ready.  OmniClaw CLI + |
-| [worldliberty/agentpay-sdk](https://github.com/worldliberty/agentpay-sdk) | ⭐548 | Rust | An open SDK for agentic payments. Let AI agents make payments, hold funds, and move money across cha |
-| [AmeNetwork/aser](https://github.com/AmeNetwork/aser) | ⭐468 | Python | Aser is a lightweight, self-assembling AI Agent frame. |
-| [Scottcjn/Rustchain](https://github.com/Scottcjn/Rustchain) | ⭐459 | Python | DePIN for Vintage Hardware — Proof-of-Antiquity blockchain where old machines outmine new ones. AI-p |
-| [codespar/mcp-dev-latam](https://github.com/codespar/mcp-dev-latam) | ⭐254 | JavaScript | Open-source MCP servers for Latin American commerce — Pix, NF-e, banking, fiscal, logistics, and mes |
-| [Swival/swival](https://github.com/Swival/swival) | ⭐217 | Python | A small, powerful, open-source CLI coding agent that works with open models. |
-| [Scottcjn/beacon-skill](https://github.com/Scottcjn/beacon-skill) | ⭐210 | Python | Beacon - agent-to-agent pings with optional RTC value attached (BoTTube/Moltbook/RustChain + UDP bus |
-| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | ⭐206 | Python | AI agents platform that gives you a workspace with an integrated team of personal assistants that ca |
-| [medusajs/medusa-agent-skills](https://github.com/medusajs/medusa-agent-skills) | ⭐192 | — | Agent skills and commands for Medusa best practices and conventions. |
-| [bitrouter/bitrouter](https://github.com/bitrouter/bitrouter) | ⭐188 | Rust | An open-source agentic LLM gateway & router that cost-optimize your agentic workflows in your way. w |
-| [Scottcjn/rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp) | ⭐97 | Python | MCP server for RustChain blockchain and BoTTube video platform — AI agent tools for earning RTC toke |
-| [damoahdominic/awesome-agentic-commerce](https://github.com/damoahdominic/awesome-agentic-commerce) | ⭐79 | — | Agentic commerce is the shift from people clicking buy buttons to AI agents acting, deciding, negoti |
-| [AgentAnycast/agentanycast](https://github.com/AgentAnycast/agentanycast) | ⭐79 | Shell | Connect AI agents across any network — zero config, encrypted, skill-based routing |
-| [kushneryk/join.cloud](https://github.com/kushneryk/join.cloud) | ⭐64 | TypeScript | Join.cloud lets AI agents work together in real-time rooms. Agents join a room, exchange messages, c |
-| [DROOdotFOO/raxol](https://github.com/DROOdotFOO/raxol) | ⭐62 | Elixir | Write one app, render it to a terminal, a browser, or as agent tools. The terminal for your Gundam. |
+| [ray-r-ren/agent-apprenticeship](https://github.com/ray-r-ren/agent-apprenticeship) | ⭐1,321 | Python | The living ecosystem where AI agents complete tasks through workflow loops, improve through iterativ |
+| [Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship) | ⭐1,321 | Python | The living ecosystem where AI agents complete tasks through workflow loops, improve through iterativ |
+| [adrianhihi/helix](https://github.com/adrianhihi/helix) | ⭐822 | TypeScript | Self-healing infrastructure for AI agent payments. 90.3% auto-recovery. |
+| [omnuron/omniclaw](https://github.com/omnuron/omniclaw) | ⭐575 | Python | The first agentic payment network: policy-controlled, gasless, and real money-ready.  OmniClaw CLI + |
+| [worldliberty/agentpay-sdk](https://github.com/worldliberty/agentpay-sdk) | ⭐516 | Rust | An open SDK for agentic payments. Let AI agents make payments, hold funds, and move money across cha |
+| [Scottcjn/Rustchain](https://github.com/Scottcjn/Rustchain) | ⭐471 | Python | DePIN for Vintage Hardware — Proof-of-Antiquity blockchain where old machines outmine new ones. AI-p |
+| [AmeNetwork/aser](https://github.com/AmeNetwork/aser) | ⭐470 | Python | Aser is a lightweight, self-assembling AI Agent frame. |
+| [Swival/swival](https://github.com/Swival/swival) | ⭐295 | Python | A small, powerful, open-source CLI coding agent that works with open models. |
+| [codespar/mcp-dev-latam](https://github.com/codespar/mcp-dev-latam) | ⭐261 | JavaScript | Open-source MCP servers for Latin American commerce — Pix, NF-e, banking, fiscal, logistics, and mes |
+| [Scottcjn/beacon-skill](https://github.com/Scottcjn/beacon-skill) | ⭐213 | Python | Beacon - agent-to-agent pings with optional RTC value attached (BoTTube/Moltbook/RustChain + UDP bus |
+| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | ⭐208 | Python | AI agents platform that gives you a workspace with an integrated team of personal assistants that ca |
+| [bitrouter/bitrouter](https://github.com/bitrouter/bitrouter) | ⭐208 | Rust | The self-improving LLM router that optimize your agentic workflows with every runs, works with any h |
+| [medusajs/medusa-agent-skills](https://github.com/medusajs/medusa-agent-skills) | ⭐202 | JavaScript | Agent skills and commands for Medusa best practices and conventions. |
+| [skerry699/agent-symphony](https://github.com/skerry699/agent-symphony) | ⭐153 | HTML | Multi-Agent AI Task Orchestrator 2026 |
+| [Scottcjn/rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp) | ⭐98 | Python | MCP server for RustChain blockchain and BoTTube video platform — AI agent tools for earning RTC toke |
+| [MentionNetwork/awesome-agentic-commerce](https://github.com/MentionNetwork/awesome-agentic-commerce) | ⭐89 | — | A curated list of awesome agentic commerce resources — protocols, MCP servers, tools, apps, APIs and |
+| [Weaverse/shopify-hydrogen-skills](https://github.com/Weaverse/shopify-hydrogen-skills) | ⭐82 | TypeScript | Dedicated agent skills for building, upgrading, and maintaining Shopify Hydrogen storefronts — works |
+| [damoahdominic/awesome-agentic-commerce](https://github.com/damoahdominic/awesome-agentic-commerce) | ⭐80 | — | Agentic commerce is the shift from people clicking buy buttons to AI agents acting, deciding, negoti |
+| [AgentAnycast/agentanycast](https://github.com/AgentAnycast/agentanycast) | ⭐77 | Shell | Connect AI agents across any network — zero config, encrypted, skill-based routing |
+| [DROOdotFOO/raxol](https://github.com/DROOdotFOO/raxol) | ⭐69 | Elixir | Write one app, render it to a terminal, a browser, or as agent tools. The terminal for your Gundam. |
+| [kushneryk/join.cloud](https://github.com/kushneryk/join.cloud) | ⭐67 | TypeScript | Join.cloud lets AI agents work together in real-time rooms. Agents join a room, exchange messages, c |
 | [Eversmile12/create-8004-agent](https://github.com/Eversmile12/create-8004-agent) | ⭐51 | TypeScript | npx CLI that scaffolds blockchain-registered AI agents with on-chain identity (ERC-8004), A2A commun |
-| [abhishekgahlot2/codex-claude-bridge](https://github.com/abhishekgahlot2/codex-claude-bridge) | ⭐48 | TypeScript | Bidirectional bridge between Claude Code and OpenAI Codex CLI. Built on Claude Code Channels. Two AI |
+| [abhishekgahlot2/codex-claude-bridge](https://github.com/abhishekgahlot2/codex-claude-bridge) | ⭐51 | TypeScript | Bidirectional bridge between Claude Code and OpenAI Codex CLI. Built on Claude Code Channels. Two AI |
 | [ChaosChain/chaoschain-genesis-studio](https://github.com/ChaosChain/chaoschain-genesis-studio) | ⭐40 | Python | ChaosChain Genesis Studio: The first end-to-end commercial prototype for ERC-8004. Demonstrating on- |
+| [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | ⭐39 | Python | 25 open-source Agent Skills for Claude Code and Codex: multi-agent orchestration, A-F code review, A |
 | [vje013/darwin-agentic-cloud](https://github.com/vje013/darwin-agentic-cloud) | ⭐34 | Python | Verifiable and free cloud compute for AI agents. webMCP + MCP native. Check out our sandboxed Beta + |
-| [Weaverse/shopify-hydrogen-skills](https://github.com/Weaverse/shopify-hydrogen-skills) | ⭐34 | TypeScript | Dedicated agent skills for building, upgrading, and maintaining Shopify Hydrogen storefronts — works |
-| [OrcaQubits/agentic-commerce-skills-plugins](https://github.com/OrcaQubits/agentic-commerce-skills-plugins) | ⭐33 | Python | Skills & plugins for agentic commerce : UCP, ACP, AP2, A2A, WebMCP, Magento 2, BigCommerce, WooComme |
-| [magebitcom/magento2-agentic-commerce-module](https://github.com/magebitcom/magento2-agentic-commerce-module) | ⭐28 | PHP | Agentic Commerce integration for Magento 2 / Adobe Commerce (In progress) |
+| [OrcaQubits/agentic-commerce-skills-plugins](https://github.com/OrcaQubits/agentic-commerce-skills-plugins) | ⭐34 | Python | Skills & plugins for agentic commerce : UCP, ACP, AP2, A2A, WebMCP, Magento 2, BigCommerce, WooComme |
+| [Franlinozz/Sluice](https://github.com/Franlinozz/Sluice) | ⭐33 | TypeScript | Sluice is a toll booth for the AI-read web. Creators price the smallest unit of what they make, AI a |
+| [magebitcom/magento2-agentic-commerce-module](https://github.com/magebitcom/magento2-agentic-commerce-module) | ⭐29 | PHP | Agentic Commerce integration for Magento 2 / Adobe Commerce (In progress) |
+| [lily-protocol/Lily-Protocol](https://github.com/lily-protocol/Lily-Protocol) | ⭐28 | — | Lily Protocol is an on-chain financial infrastructure built on the Stellar network that enables AI a |
+| [johnvouros/skillmaxxing](https://github.com/johnvouros/skillmaxxing) | ⭐26 | Shell | A phase-aware operating system for coding agents that helps them explore, ship, harden, and verify w |
 | [ch4r10t33r/sentrix](https://github.com/ch4r10t33r/sentrix) | ⭐26 | Rust | Autonomous Agentic Coordination Framework (WIP) |
-| [lily-protocol/Lily-Protocol](https://github.com/lily-protocol/Lily-Protocol) | ⭐25 | — | Lily Protocol is an on-chain financial infrastructure built on the Stellar network that enables AI a |
-| [johnvouros/skillmaxxing](https://github.com/johnvouros/skillmaxxing) | ⭐24 | Shell | Multi-agent AI system where autonomous agents collaborate, compete, and execute tasks in a shared, o |
 | [Summoner-Network/summoner-agents](https://github.com/Summoner-Network/summoner-agents) | ⭐24 | Python | A collection of Summoner clients and agents featuring example implementations and reusable templates |
+| [nMaroulis/awesome-a2a-libraries](https://github.com/nMaroulis/awesome-a2a-libraries) | ⭐23 | — | A curated list of Agent-to-Agent (A2A) libraries and SDKs, organized by programming language. |
 | [capiscio/a2a-demos](https://github.com/capiscio/a2a-demos) | ⭐23 | Python | Demo agents showcasing CapiscIO Agent Guard and MCP Guard — trust badges, identity verification, and |
-| [nMaroulis/awesome-a2a-libraries](https://github.com/nMaroulis/awesome-a2a-libraries) | ⭐22 | — | A curated list of Agent-to-Agent (A2A) libraries and SDKs, organized by programming language. |
-| [HUA-Labs/tap](https://github.com/HUA-Labs/tap) | ⭐19 | TypeScript | Cross-vendor agent-to-agent protocol — Claude, Codex, and Gemini communicate via file-based P2P mess |
+| [HUA-Labs/tap](https://github.com/HUA-Labs/tap) | ⭐20 | TypeScript | Cross-vendor agent-to-agent protocol — Claude, Codex, and Gemini communicate via file-based P2P mess |
 | [im-knots/the-academy](https://github.com/im-knots/the-academy) | ⭐15 | TypeScript | A Socratic dialogue engine for AI agents. |
-| [bitrefill/awesome-agentic-payments](https://github.com/bitrefill/awesome-agentic-payments) | ⭐14 | — | A curated list of protocols, specs, SDKs, and tools powering the emerging agentic commerce stack. |
+| [bitrefill/awesome-agentic-payments](https://github.com/bitrefill/awesome-agentic-payments) | ⭐15 | — | A curated list of protocols, specs, SDKs, and tools powering the emerging agentic commerce stack. |
+| [Nolpak14/agorio](https://github.com/Nolpak14/agorio) | ⭐13 | TypeScript | The open-source toolkit for building AI commerce agents using UCP and ACP protocols |
+| [kartojal/openvps](https://github.com/kartojal/openvps) | ⭐11 | Rust | MPP-powered VPS hosting - AI agents pay for compute via Machine Payments Protocol |
 | [loka-network/loka-p2p-lnd](https://github.com/loka-network/loka-p2p-lnd) | ⭐11 | Go | Loka AI Agentic Payment P2P Lightning Node ⚡️ is built natively on top of the established Bitcoin Li |
-| [Nolpak14/agorio](https://github.com/Nolpak14/agorio) | ⭐10 | TypeScript | The open-source toolkit for building AI commerce agents using UCP and ACP protocols |
 | [akudo7/kudosflow](https://github.com/akudo7/kudosflow) | ⭐10 | TypeScript | Visual workflow editor for building node-based AI agent workflows with drag-and-drop interface, A2A  |
-| [kartojal/openvps](https://github.com/kartojal/openvps) | ⭐10 | Rust | MPP-powered VPS hosting - AI agents pay for compute via Machine Payments Protocol |
 | [loyal-labs/loyal-app](https://github.com/loyal-labs/loyal-app) | ⭐9 | TypeScript | Loyal — open-source Solana wallet. Smart-account guardrails for AI agents, private transfers and yie |
 | [liminalshruti/liminal-agents](https://github.com/liminalshruti/liminal-agents) | ⭐9 | JavaScript | Three bounded agents (Analyst, SDR, Auditor) that do agency-priced B2B work locally. Each refuses ou |
+| [AnirudhDabas/shelf](https://github.com/AnirudhDabas/shelf) | ⭐9 | TypeScript | autonomous search optimization for shopify |
 | [OrcaQubits/awesome-agentic-commerce](https://github.com/OrcaQubits/awesome-agentic-commerce) | ⭐9 | — | A curated list of awesome Agentic commerce, Universal Commerce Protocol (UCP), Agentic payments prot |
-| [AnirudhDabas/shelf](https://github.com/AnirudhDabas/shelf) | ⭐8 | TypeScript | autonomous search optimization for shopify |
 | [keep-starknet-strange/starkclaw](https://github.com/keep-starknet-strange/starkclaw) | ⭐8 | TypeScript | Starknet mobile agent wallet built for bounded delegation: session keys, policy guardrails, and audi |
 | [sibyl-oracles/onit](https://github.com/sibyl-oracles/onit) | ⭐8 | Python | OnIt is an AI agent framework for automation. |
 | [viftode4/trustchain](https://github.com/viftode4/trustchain) | ⭐7 | Rust | TrustChain - decentralized trust for AI agents. Rust core, QUIC P2P, transparent proxy, MCP server,  |
 | [SoulPass-AI/soulpass-cli-skill](https://github.com/SoulPass-AI/soulpass-cli-skill) | ⭐7 | — | Hardware-secured Solana wallet, trading terminal, and agent identity layer for AI agents. Jupiter DE |
 | [bhakthan/AI_Agent_School](https://github.com/bhakthan/AI_Agent_School) | ⭐7 | TypeScript | An interactive educational platform for understanding AI agents |
 | [vishalmysore/ap2java](https://github.com/vishalmysore/ap2java) | ⭐7 | Java | A Java implementation of Google's Agent Payments Protocol (AP2) built on top of a2ajava. |
+| [SupplyGraphAI/supplygraph-ai](https://github.com/SupplyGraphAI/supplygraph-ai) | ⭐7 | — | AI-native Agentic AI platform for customs & HTS classification, tariff analysis, trade compliance an |
+| [DevCreate-Studio/catalog-kit](https://github.com/DevCreate-Studio/catalog-kit) | ⭐6 | TypeScript | Agent-ready open-source starter kit for the Shopify Global Catalog — clone to live cross-merchant pr |
 | [mnemopay/mnemopay-sdk](https://github.com/mnemopay/mnemopay-sdk) | ⭐6 | TypeScript | Trust & reputation layer for AI agents. Agent Credit Score (300-850) + Merkle-anchored ledger + beha |
 | [aegisplaceprotocol/aegisplace](https://github.com/aegisplaceprotocol/aegisplace) | ⭐6 | TypeScript | Aegis is a marketplace where AI agents pay for on-chain skills via instant USDC micropayments, with  |
 | [kkdai/linebot-ap2](https://github.com/kkdai/linebot-ap2) | ⭐6 | Python | LINE Bot with Google AP2 (Agent Payments Protocol) demo |
 | [anatolykoptev/openclaw-a2a-bridge](https://github.com/anatolykoptev/openclaw-a2a-bridge) | ⭐6 | JavaScript | A2A protocol bridge plugin for OpenClaw — agent card, JSON-RPC endpoint, and remote agent tools |
 | [betterclever/zimppy](https://github.com/betterclever/zimppy) | ⭐6 | Rust | Zcash Machine Payments Protocol — private payments for AI agents |
 | [NightFury02/ClawTeam](https://github.com/NightFury02/ClawTeam) | ⭐6 | TypeScript | Connect OpenClaw agents across teams and enterprises to share, discover, and collaborate on custom a |
+| [A-Comm-Tech/a-comm-evidence-protocol](https://github.com/A-Comm-Tech/a-comm-evidence-protocol) | ⭐5 | HTML | A-Comm Evidence Protocol (AEP) — the open, Apache-2.0 evidence standard for agentic commerce: a tamp |
+| [adeyemib05/Keryx](https://github.com/adeyemib05/Keryx) | ⭐5 | TypeScript | Per-citation micropayment toll layer for independent publishers — AI agents pay in USDC on Arc every |
 | [Kingnanaweb3/stoa-protocol](https://github.com/Kingnanaweb3/stoa-protocol) | ⭐5 | HTML | Stoa Protocol — The settlement layer for cross-chain AI agents.  Stoa enables AI agents operating on |
 | [DXmakers/lance](https://github.com/DXmakers/lance) | ⭐5 | TypeScript | A next-generation freelancer marketplace on Stellar. Features Soroban smart contract escrow, instant |
 | [Calhooon/dolphinmilk](https://github.com/Calhooon/dolphinmilk) | ⭐5 | Rust | Autonomous AI agent that pays for its own LLM inference via BSV micropayments. Every action becomes  |
 | [word-x/SucShop](https://github.com/word-x/SucShop) | ⭐5 | — | A lightweight, SEO/GEO-ready online store for the AI era SucShop helps small businesses build succes |
 | [Kirushikesh/a2a-deep-research](https://github.com/Kirushikesh/a2a-deep-research) | ⭐5 | Python | A deep research agent implementation using Google's Agent-to-Agent (A2A) framework with Model Contex |
 | [Agastya910/agent-escrow-protocol](https://github.com/Agastya910/agent-escrow-protocol) | ⭐5 | JavaScript | A trustless on‑chain credit score + escrow protocol for autonomous agent payments using USDC on Base |
-| [SupplyGraphAI/supplygraph-ai](https://github.com/SupplyGraphAI/supplygraph-ai) | ⭐5 | — | AI-native Agentic AI platform for customs & HTS classification, tariff analysis, trade compliance an |
 | [Big-Immersive/xbpp-sdk](https://github.com/Big-Immersive/xbpp-sdk) | ⭐5 | TypeScript | @vanarchain/xbpp — Execution Boundary Permission Protocol SDK for AI agent payments |
 | [marchantdev/agent-protocol](https://github.com/marchantdev/agent-protocol) | ⭐4 | TypeScript | The first trustless agent-to-agent payment protocol on Solana. AI agents transact, verify, and settl |
 | [danielrosehill/Agent-Junction](https://github.com/danielrosehill/Agent-Junction) | ⭐4 | TypeScript | Ephemeral agent-to-agent communication relay for agentic CLIs (localhost or intra-LAN). MCP. |
@@ -188,18 +196,10 @@
 | [Handshake58/HS58](https://github.com/Handshake58/HS58) | ⭐3 | TypeScript | AI Provider Templates & Docs for Handshake58 — Bittensor Subnet 58 powered by DRAIN Protocol |
 | [squidbay/squidbay](https://github.com/squidbay/squidbay) | ⭐3 | CSS | AI agent skill marketplace - where agents buy and sell capabilities from each other |
 | [agirails/n8n-nodes-actp](https://github.com/agirails/n8n-nodes-actp) | ⭐3 | TypeScript | n8n community node for AGIRAILS ACTP (Agent Commerce Transaction Protocol) - enables AI agent paymen |
+| [splitmerge420/aluminum-os](https://github.com/splitmerge420/aluminum-os) | ⭐3 | TypeScript | Aluminum OS — The AI-Native Operating System. Agent Control Plane, SHELDONBRAIN LLM Memory, MCP Gove |
 | [laundromatic/shopgraph](https://github.com/laundromatic/shopgraph) | ⭐3 | TypeScript | The extraction API that shows its work. Product data extraction with per-field confidence scoring an |
-| [tonbistudio/agentpay-solana](https://github.com/tonbistudio/agentpay-solana) | ⭐3 | TypeScript | AgentPay SDK for Solana — self-custodial, policy-aware wallet operations for AI agents |
-| [webvijayi/instant-checkout-via-acp-agentic-commerce-for-woocommerce](https://github.com/webvijayi/instant-checkout-via-acp-agentic-commerce-for-woocommerce) | ⭐2 | PHP | Enable 'Buy it in ChatGPT' for your WooCommerce store using the Agentic Commerce Protocol (ACP). Sea |
-| [ben4mn/SDAP](https://github.com/ben4mn/SDAP) | ⭐2 | Python | Secure Digital Agent Protocol — HTTPS for AI agent communication. Cryptographic identity, mutual aut |
-| [splitmerge420/aluminum-os](https://github.com/splitmerge420/aluminum-os) | ⭐2 | TypeScript | Aluminum OS — The AI-Native Operating System. Agent Control Plane, SHELDONBRAIN LLM Memory, MCP Gove |
-| [timmeck/nexus](https://github.com/timmeck/nexus) | ⭐2 | Python | The AI-to-AI Protocol Layer that catches unreliable agent outputs before they cost you money. Claim- |
-| [capiscio/capiscio-mcp-python](https://github.com/capiscio/capiscio-mcp-python) | ⭐2 | Python | CapiscIO MCP Guard - Secure your MCP tools with agent-to-server authentication, authorization, and a |
-| [ark-forge/trust-layer](https://github.com/ark-forge/trust-layer) | ⭐2 | Python | Certifying proxy for agent-to-agent transactions — SHA-256 proof chain, Ed25519 signatures, RFC 3161 |
-| [agirails/openclaw-skill](https://github.com/agirails/openclaw-skill) | ⭐2 | TypeScript | Official OpenClaw skill for AI agent payments via ACTP protocol |
-| [teckedd-code2save/agentmart](https://github.com/teckedd-code2save/agentmart) | ⭐1 | TypeScript | ⚡ Autonomous AI agent economy — agents hire agents, pay each other, and get work done. Built on MPP  |
 
-> +69 more in this category — [browse all on mpp.best](https://mpp.best).
+> +77 more in this category — [browse all on mpp.best](https://mpp.best).
 
 ## 🧩 MCP Payments
 
@@ -244,11 +244,11 @@
 
 | Project | Stars | Language | Description |
 |---------|-------|----------|-------------|
-| [wevm/mppx](https://github.com/wevm/mppx) | ⭐147 | TypeScript | TypeScript Interface for Machine Payments Protocol |
-| [tempoxyz/mpp-specs](https://github.com/tempoxyz/mpp-specs) | ⭐84 | Python | Specifications for the Machine Payments Protocol - powered by the "Payment" HTTP authentication sche |
-| [tempoxyz/mpp-rs](https://github.com/tempoxyz/mpp-rs) | ⭐83 | Rust | Rust SDK for the Machine Payments Protocol |
-| [tempoxyz/mpp](https://github.com/tempoxyz/mpp) | ⭐71 | TypeScript | Website for the Machine Payments Protocol |
-| [stripe-samples/machine-payments](https://github.com/stripe-samples/machine-payments) | ⭐49 | Python | No description. |
+| [wevm/mppx](https://github.com/wevm/mppx) | ⭐154 | TypeScript | TypeScript Interface for Machine Payments Protocol |
+| [tempoxyz/mpp-specs](https://github.com/tempoxyz/mpp-specs) | ⭐85 | Python | Specifications for the Machine Payments Protocol - powered by the "Payment" HTTP authentication sche |
+| [tempoxyz/mpp-rs](https://github.com/tempoxyz/mpp-rs) | ⭐84 | Rust | Rust SDK for the Machine Payments Protocol |
+| [tempoxyz/mpp](https://github.com/tempoxyz/mpp) | ⭐77 | TypeScript | Website for the Machine Payments Protocol |
+| [stripe-samples/machine-payments](https://github.com/stripe-samples/machine-payments) | ⭐51 | Python | No description. |
 | [tempoxyz/pympp](https://github.com/tempoxyz/pympp) | ⭐38 | Python | Python SDK for the Machine Payments Protocol |
 | [starc007/mppx-proxy](https://github.com/starc007/mppx-proxy) | ⭐4 | TypeScript | A reverse proxy that wraps any existing HTTP API with MPP payment gating — zero code changes on the  |
 | [ASGCompute/stellar-mpp-payments-skill](https://github.com/ASGCompute/stellar-mpp-payments-skill) | ⭐3 | Shell | ASG Card community skill for building Machine Payments Protocol flows on Stellar |
@@ -301,4 +301,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md), or simply [submit your project on mpp.be
 
 ---
 
-*1352 curated projects · auto-generated from [mpp.best](https://mpp.best) on 2026-07-01. Maintained by [mpp.best](https://mpp.best) — the AI payments & x402 directory.*
+*1382 curated projects · auto-generated from [mpp.best](https://mpp.best) on 2026-08-01. Maintained by [mpp.best](https://mpp.best) — the AI payments & x402 directory.*
