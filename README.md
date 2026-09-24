@@ -34,6 +34,7 @@
 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | ⭐12,595 | Go | Your AI trading terminal assistant for US stocks, commodities, forex, and crypto. |
 | [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) | ⭐6,661 | TypeScript | The agent-native LLM router for autonomous agents. 55+ models (8 free), <1ms local routing, USDC pay |
 | [coinbase/x402](https://github.com/coinbase/x402) | ⭐6,373 | TypeScript | A payments protocol for the internet. Built on HTTP. |
+| [PANDeveloper001/vend](https://github.com/PANDeveloper001/vend) | ⭐0 | — | Live pay-per-call data APIs for AI agents settled in Nano (XNO) on a fee-free native rail — clean text/markdown extraction, web search, IP geo, domain & Nano account info at 0.0001-0.0005 XNO/call. No signup/API keys; HTTP 402 x402-v2 challenge is the checkout. |
 | [Bitterbot-AI/bitterbot-desktop](https://github.com/Bitterbot-AI/bitterbot-desktop) | ⭐2,425 | TypeScript | A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills eco |
 | [internet-court/internet-court-skill](https://github.com/internet-court/internet-court-skill) | ⭐1,058 | TypeScript | The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissi |
 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | ⭐624 | TypeScript | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
